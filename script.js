@@ -109,8 +109,6 @@ function updateUI(data){
     document.getElementById("vehicle").innerText =
     "Bike rides are great in this weather.";
 
-    document.getElementById("suggestion").innerText =
-    "Stay hydrated and avoid afternoon heat.";
 
 
 
@@ -130,9 +128,6 @@ function updateUI(data){
     document.getElementById("vehicle").innerText =
     "Avoid bikes during heavy rain.";
 
-    document.getElementById("suggestion").innerText =
-    "Roads may be slippery. Travel safely.";
-
 
 
   }
@@ -151,8 +146,7 @@ function updateUI(data){
     document.getElementById("vehicle").innerText =
     "Any vehicle is fine.";
 
-    document.getElementById("suggestion").innerText =
-    "Good weather for productivity.";
+
 
   
 
@@ -172,9 +166,7 @@ function updateUI(data){
     document.getElementById("vehicle").innerText =
     "Drive carefully.";
 
-    document.getElementById("suggestion").innerText =
-    "Take care and enjoy your day.";
-
+ 
 
   }
 
