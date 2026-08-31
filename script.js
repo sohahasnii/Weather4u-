@@ -112,8 +112,7 @@ function updateUI(data){
     document.getElementById("suggestion").innerText =
     "Stay hydrated and avoid afternoon heat.";
 
-    document.getElementById("dialogue").innerText =
-    "‘Life lo gelavadam important kaadu... life ni enjoy cheyadam important.’";
+
 
   }
 
@@ -134,8 +133,7 @@ function updateUI(data){
     document.getElementById("suggestion").innerText =
     "Roads may be slippery. Travel safely.";
 
-    document.getElementById("dialogue").innerText =
-    "‘Konni journeys manalni marchestayi.’";
+
 
   }
 
@@ -156,8 +154,7 @@ function updateUI(data){
     document.getElementById("suggestion").innerText =
     "Good weather for productivity.";
 
-    document.getElementById("dialogue").innerText =
-    "‘Edaina sare... once decide ayithe naa way lo veltha.’";
+  
 
   }
 
@@ -178,8 +175,6 @@ function updateUI(data){
     document.getElementById("suggestion").innerText =
     "Take care and enjoy your day.";
 
-    document.getElementById("dialogue").innerText =
-    "‘Kashtapadithe success tappadu.’";
 
   }
 
